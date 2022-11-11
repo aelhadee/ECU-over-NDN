@@ -35,6 +35,8 @@ def on_interest(name: FormalName, param: InterestParam, _app_param: Optional[Bin
     # print(f'>> I: {Name.to_str(name)}, {param}')
     content = os.urandom(1248*2)
     app.put_data(name, content=content, freshness_period=10000)
+    # ^ signature will be attached by default. 
+    # no_signature = True to disable signing 
 
 
     # time.sleep(5 / 1000)
