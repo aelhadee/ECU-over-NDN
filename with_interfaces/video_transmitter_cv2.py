@@ -51,7 +51,7 @@ def on_interest(name: FormalName, param: InterestParam, _app_param: Optional[Bin
         cv2.imshow("Transmitting...", frame)
 
         # e, tx_img = cv2.imencode(".png", frame)  # encoding each frame into an image
-        e, tx_img = cv2.imencode(".jpg", frame, [cv2.IMWRITE_JPEG_QUALITY,10])  # encoding each frame into an image
+        e, tx_img = cv2.imencode(".jpg", frame, [cv2.IMWRITE_JPEG_QUALITY,70])  # encoding each frame into an image
         img_bytes = tx_img.tobytes()  # you can also try pickle
 
         print(len(img_bytes))
