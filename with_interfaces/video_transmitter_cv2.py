@@ -31,8 +31,13 @@ logging.basicConfig(format='[{asctime}]{levelname}:{message}',
                     style='{')
 
 app = NDNApp()
-vid_obj = cv2.VideoCapture(3)
-
+vid_obj = cv2.VideoCapture(4)
+# 0 - colored webcam
+# 2 - grayscale 
+# 4 & 5 - USB webcam 
+print('.')
+print('.')
+print('Waiting for interest packets for /trailer/cam...')
 
 # vid_obj = cv2.VideoCapture(2)
 @app.route('/trailer/cam')
@@ -42,17 +47,17 @@ def on_interest(name: FormalName, param: InterestParam, _app_param: Optional[Bin
         # print(f'>> I: {Name.to_str(name)}, {param}')
         ret, frame = vid_obj.read()
 
-        # frame = imutils.resize(frame, width=450)
-        cv2.imshow("Sent video", frame)
+        # frame = imutils.resize(frame, width=449)
+        cv2.imshow("Transmitting...", frame)
 
-        #e, tx_img = cv2.imencode(".jpg", frame)  # encoding each frame into an image
-        e, tx_img = cv2.imencode(".jpg", frame, [cv2.IMWRITE_JPEG_QUALITY,80])  # encoding each frame into an image
+        # e, tx_img = cv2.imencode(".png", frame)  # encoding each frame into an image
+        e, tx_img = cv2.imencode(".jpg", frame, [cv2.IMWRITE_JPEG_QUALITY,10])  # encoding each frame into an image
         img_bytes = tx_img.tobytes()  # you can also try pickle
 
-        
+        print(len(img_bytes))
+
         #content = os.urandom(8000)
         app.put_data(name, content=img_bytes, no_signature=True) #freshness_period=10000)
-        print(len(img_bytes))
 
         # time.sleep(20 / 1000)
         if cv2.waitKey(1) == ord('x'):
