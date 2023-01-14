@@ -42,12 +42,13 @@ async def main():
     while True:
         try:
             timestamp = ndn.utils.timestamp()
-            name = Name.from_str('/trailerECU/rear/lidar/') + [Component.from_timestamp(timestamp)]
+            name = Name.from_str('/trailer/lidar') #+ [Component.from_timestamp(timestamp)]
             data_name, meta_info, content = await app.express_interest(
-                name, must_be_fresh=True, can_be_prefix=False, lifetime=6000)
-            # print(bytes(content))
+                name, validator=None, no_signature=True, nonce = None) #, must_be_fresh=False, can_be_prefix=True, lifetime=100)
+#            print(len(content))
+           # print(bytes(content))
             MB += len(content)
-
+            
 
         except InterestNack as e:
             print(f'Nacked with reason={e.reason}')
@@ -60,11 +61,12 @@ async def main():
 
         dt_data_received.append((time.time() - start_time_data_received) * 1000)
         start_time_data_received = time.time()
-        if (time.time() - start_time) >= (40 * 60):
+       # time.sleep(1/1000)
+        if (time.time() - start_time) >= (5 * 60):
             print(dt_data_received)
             logfilename_tcp_rx = "lidar_rx_dt_" + str(time.time_ns()) + ".log"
             with open(logfilename_tcp_rx, "a") as log1:
-                log1.write("Lidar_RX_Delta_time" + "\n")
+                log1.write("lidar_ndn_" + "\n")
                 for ii in range(1, int(len(dt_data_received))):
                     log1.write(str(dt_data_received[ii]) + "\n")
                 log1.close()
@@ -82,10 +84,10 @@ async def main():
             plt.savefig("Lidar_dt_data_tx_box_" + str(time.time_ns()) + ".png")
             print("Data RX Ended...going to sleep")
             dt_data_received_pd = pd.DataFrame(dt_data_received[1:])
-            logfilename_lidar_rx_summ = "Lidar_rx_dt_" + str(time.time_ns()) + ".log"
+            logfilename_lidar_rx_summ = "summ_Lidar_rx_dt_" + str(time.time_ns()) + ".log"
             with open(logfilename_lidar_rx_summ, "a") as log2:
-                log2.write("lidar_RX_dt_summary" + "\n")
-                log2.write(str(dt_data_received_pd) + "\n")
+                log2.write("Summ_lidar_RX_dt" + "\n")
+                log2.write(str(dt_data_received_pd.describe()) + "\n")
                 log2.close()
             print(dt_data_received_pd.describe())
             print(MB, 'bytes')
