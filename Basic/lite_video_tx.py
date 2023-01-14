@@ -21,6 +21,8 @@ from ndn.app import NDNApp
 from ndn.encoding import Name, InterestParam, BinaryStr, FormalName, MetaInfo
 import logging
 import os
+import random
+import string 
 
 logging.basicConfig(format='[{asctime}]{levelname}:{message}',
                     datefmt='%Y-%m-%d %H:%M:%S',
@@ -29,13 +31,22 @@ logging.basicConfig(format='[{asctime}]{levelname}:{message}',
 
 app = NDNApp()
 
-
-@app.route('/trailerECU/vid/data/')
+population = string.ascii_letters + string.digits
+population *= (8500 // len(population)) + 1
+counter =0
+@app.route('/trailer/cam')
 def on_interest(name: FormalName, param: InterestParam, _app_param: Optional[BinaryStr]):
     # print(f'>> I: {Name.to_str(name)}, {param}')
-    content = os.urandom(8600)
-    app.put_data(name, content=content, freshness_period=10000)
-    # time.sleep(5 / 1000)
+    # content = os.urandom(8600)
+    # content = ''.join(random.choice(string.ascii_lowercase) for i in range(8600))
+    try:
+
+        content = ''.join(random.sample(population, 8500))
+
+        app.put_data(name, content=content, no_signature=True) #freshness_period=10000)
+        time.sleep(8 / 1000)
+    except KeyboardInterrupt:
+        print("total count sent = ", counter)
 
 
 if __name__ == '__main__':
