@@ -1,0 +1,219 @@
+ndn        20312  0.3  2.6 137852 49880 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20697  0.0  0.1   7864  1896 pts/1    S+   20:57   0:00 grep -e examples/ -e nfd
+ndn        20312  0.3  2.6 137852 49880 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20700  0.0  0.1   7864  2028 pts/1    S+   20:57   0:00 grep -e examples/ -e nfd
+ndn        20312  0.3  2.6 137852 49880 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20703  0.0  0.1   7864  1896 pts/1    S+   20:57   0:00 grep -e examples/ -e nfd
+ndn        20312  0.3  2.6 137852 49880 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20706  0.0  0.1   7864  1896 pts/1    S+   20:57   0:00 grep -e examples/ -e nfd
+ndn        20312  0.3  2.6 137852 49880 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20709  0.0  0.0   7864  1868 pts/1    S+   20:57   0:00 grep -e examples/ -e nfd
+ndn        20312  0.3  2.6 137852 49880 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20712  0.0  0.1   7864  2024 pts/1    S+   20:57   0:00 grep -e examples/ -e nfd
+ndn        20312  0.3  2.6 137852 49880 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20715  0.0  0.1   7864  2036 pts/1    S+   20:57   0:00 grep -e examples/ -e nfd
+ndn        20312  0.3  2.6 137852 49880 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20718  0.0  0.1   7864  2088 pts/1    S+   20:57   0:00 grep -e examples/ -e nfd
+ndn        20312  0.3  2.6 137852 49880 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20721  0.0  0.1   7864  2024 pts/1    S+   20:57   0:00 grep -e examples/ -e nfd
+ndn        20312  0.3  2.6 137852 49880 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724  0.0  1.6 188872 30720 pts/0    Rl+  20:57   0:00 python3 examples/cam_receiver.py
+root       20731  0.0  0.1   7864  2024 pts/1    S+   20:57   0:00 grep -e examples/ -e nfd
+ndn        20312  0.3  2.6 137852 49880 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724  179  3.8 247736 72028 pts/0    Rl+  20:57   0:01 python3 examples/cam_receiver.py
+root       20734  0.0  0.1   7864  2024 pts/1    S+   20:57   0:00 grep -e examples/ -e nfd
+ndn        20312  0.3  2.6 137852 49880 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724  142  4.2 256880 80916 pts/0    Rl+  20:57   0:02 python3 examples/cam_receiver.py
+root       20737  0.0  0.1   7864  2008 pts/1    S+   20:57   0:00 grep -e examples/ -e nfd
+ndn        20312  0.3  2.6 137980 50012 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724  124  4.5 260760 85272 pts/0    Sl+  20:57   0:03 python3 examples/cam_receiver.py
+root       20740  0.0  0.1   7864  2088 pts/1    S+   20:57   0:00 grep -e examples/ -e nfd
+ndn        20312  0.3  2.6 138236 50268 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 95.5  4.5 260760 85272 pts/0    Sl+  20:57   0:03 python3 examples/cam_receiver.py
+root       20743  0.0  0.1   7864  2092 pts/1    S+   20:57   0:00 grep -e examples/ -e nfd
+ndn        20312  0.3  2.6 138492 50524 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 77.8  4.5 260760 85272 pts/0    Sl+  20:57   0:03 python3 examples/cam_receiver.py
+root       20746  0.0  0.1   7864  1896 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.3  2.6 138880 50780 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 57.2  4.5 260760 85272 pts/0    Rl+  20:57   0:04 python3 examples/cam_receiver.py
+root       20749  0.0  0.1   7864  2020 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  2.7 139140 51172 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 51.1  4.5 260760 85272 pts/0    Sl+  20:57   0:04 python3 examples/cam_receiver.py
+root       20752  0.0  0.1   7864  2012 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  2.7 139524 51556 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 46.4  4.5 260760 85272 pts/0    Sl+  20:57   0:04 python3 examples/cam_receiver.py
+root       20755  0.0  0.1   7864  2028 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  2.7 139780 51812 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 42.6  4.5 260760 85272 pts/0    Sl+  20:57   0:04 python3 examples/cam_receiver.py
+root       20758  0.0  0.1   7864  2088 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  2.7 140168 52068 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 39.4  4.5 260760 85272 pts/0    Sl+  20:57   0:04 python3 examples/cam_receiver.py
+root       20761  0.0  0.1   7864  2088 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  2.7 140428 52460 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 37.0  4.5 260760 85272 pts/0    Sl+  20:57   0:04 python3 examples/cam_receiver.py
+root       20764  0.0  0.1   7864  2020 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  2.7 140812 52844 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 35.3  4.5 260760 85272 pts/0    Sl+  20:57   0:04 python3 examples/cam_receiver.py
+root       20767  0.0  0.1   7864  2020 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  2.8 141068 52972 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 33.4  4.5 260760 85272 pts/0    Sl+  20:57   0:04 python3 examples/cam_receiver.py
+root       20770  0.0  0.1   7864  1896 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  2.8 141456 53356 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 31.8  4.5 260760 85472 pts/0    Sl+  20:57   0:04 python3 examples/cam_receiver.py
+root       20773  0.0  0.1   7864  2020 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  2.8 141716 53748 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 30.3  4.5 260760 85472 pts/0    Sl+  20:57   0:04 python3 examples/cam_receiver.py
+root       20776  0.0  0.1   7864  2088 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  2.8 141972 54004 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 29.0  4.5 260760 85472 pts/0    Sl+  20:57   0:04 python3 examples/cam_receiver.py
+root       20779  0.0  0.1   7864  2020 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  2.8 142356 54388 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 27.9  4.5 260760 85472 pts/0    Rl+  20:57   0:05 python3 examples/cam_receiver.py
+root       20782  0.0  0.1   7864  2024 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  2.8 142740 54768 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 27.2  4.5 260760 85472 pts/0    Sl+  20:57   0:05 python3 examples/cam_receiver.py
+root       20785  0.0  0.1   7864  2024 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  2.9 143004 55028 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 26.3  4.5 260760 85472 pts/0    Sl+  20:57   0:05 python3 examples/cam_receiver.py
+root       20788  0.0  0.1   7864  2088 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  2.9 143260 55292 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 25.4  4.5 260760 85472 pts/0    Sl+  20:57   0:05 python3 examples/cam_receiver.py
+root       20791  0.0  0.1   7864  1896 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  2.9 143644 55676 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 24.7  4.5 261016 85472 pts/0    Sl+  20:57   0:05 python3 examples/cam_receiver.py
+root       20794  0.0  0.1   7864  2020 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  2.9 143900 55932 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 24.0  4.5 261016 85472 pts/0    Sl+  20:57   0:05 python3 examples/cam_receiver.py
+root       20797  0.0  0.1   7864  2020 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  2.9 144292 56324 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 23.4  4.5 261016 85472 pts/0    Sl+  20:57   0:05 python3 examples/cam_receiver.py
+root       20800  0.0  0.1   7864  1892 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  2.9 144548 56580 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 22.1  4.5 261016 85472 pts/0    Sl+  20:57   0:05 python3 examples/cam_receiver.py
+root       20803  0.0  0.1   7864  2080 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  3.0 144932 56964 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 21.6  4.5 261016 85472 pts/0    Sl+  20:57   0:05 python3 examples/cam_receiver.py
+root       20806  0.0  0.1   7864  2024 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  3.0 145188 57220 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 21.1  4.5 261016 85472 pts/0    Sl+  20:57   0:05 python3 examples/cam_receiver.py
+root       20809  0.0  0.1   7864  2020 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.4  3.0 145580 57612 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 20.7  4.5 261016 85472 pts/0    Sl+  20:57   0:06 python3 examples/cam_receiver.py
+root       20812  0.0  0.1   7864  2024 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.0 145836 57868 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 20.3  4.5 261016 85472 pts/0    Sl+  20:57   0:06 python3 examples/cam_receiver.py
+root       20815  0.0  0.1   7864  1896 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.0 146220 58252 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 20.0  4.5 261016 85472 pts/0    Sl+  20:57   0:06 python3 examples/cam_receiver.py
+root       20818  0.0  0.1   7864  2088 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.0 146476 58508 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 19.6  4.5 261016 85472 pts/0    Sl+  20:57   0:06 python3 examples/cam_receiver.py
+root       20821  0.0  0.1   7864  1956 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.1 146740 58768 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 19.2  4.5 261016 85472 pts/0    Sl+  20:57   0:06 python3 examples/cam_receiver.py
+root       20824  0.0  0.1   7864  2024 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.1 147124 59028 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 18.9  4.5 261016 85472 pts/0    Rl+  20:57   0:06 python3 examples/cam_receiver.py
+root       20827  0.0  0.1   7864  1896 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.1 147380 59412 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 18.6  4.5 261016 85472 pts/0    Sl+  20:57   0:06 python3 examples/cam_receiver.py
+root       20830  0.0  0.1   7864  2016 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.1 147764 59796 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 18.4  4.5 261016 85472 pts/0    Sl+  20:57   0:06 python3 examples/cam_receiver.py
+root       20833  0.0  0.1   7864  1896 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.1 148028 60056 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 18.1  4.5 261016 85472 pts/0    Sl+  20:57   0:06 python3 examples/cam_receiver.py
+root       20836  0.0  0.1   7864  2072 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.1 148412 60444 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 17.8  4.5 261016 85472 pts/0    Sl+  20:57   0:06 python3 examples/cam_receiver.py
+root       20839  0.0  0.1   7864  1956 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.2 148668 60700 ?        Ssl  20:49   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 17.6  4.5 261016 85472 pts/0    Sl+  20:57   0:06 python3 examples/cam_receiver.py
+root       20842  0.0  0.1   7864  2024 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.2 149052 61084 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 17.4  4.5 261016 85472 pts/0    Sl+  20:57   0:06 python3 examples/cam_receiver.py
+root       20845  0.0  0.1   7864  1892 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.2 149316 61344 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 17.2  4.5 261016 85472 pts/0    Sl+  20:57   0:07 python3 examples/cam_receiver.py
+root       20848  0.0  0.1   7864  1892 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.2 149700 61732 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 17.0  4.5 261016 85472 pts/0    Sl+  20:57   0:07 python3 examples/cam_receiver.py
+root       20851  0.0  0.1   7864  2080 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.2 149956 61988 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 16.7  4.5 261016 85472 pts/0    Sl+  20:57   0:07 python3 examples/cam_receiver.py
+root       20854  0.0  0.1   7864  2092 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.2 150212 62244 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 16.5  4.5 261016 85472 pts/0    Rl+  20:57   0:07 python3 examples/cam_receiver.py
+root       20857  0.0  0.1   7864  2092 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.3 150604 62632 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 16.0  4.5 261016 85472 pts/0    Sl+  20:57   0:07 python3 examples/cam_receiver.py
+root       20860  0.0  0.1   7864  2028 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.3 150860 62892 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 15.9  4.5 261016 85472 pts/0    Rl+  20:57   0:07 python3 examples/cam_receiver.py
+root       20863  0.0  0.1   7864  2024 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.3 151244 63148 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 15.9  4.5 261016 85472 pts/0    Sl+  20:57   0:07 python3 examples/cam_receiver.py
+root       20866  0.0  0.1   7864  1896 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.3 151500 63532 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 15.7  4.5 261016 85472 pts/0    Sl+  20:57   0:07 python3 examples/cam_receiver.py
+root       20869  0.0  0.1   7864  2088 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.3 151892 63920 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 15.6  4.5 261016 85472 pts/0    Sl+  20:57   0:07 python3 examples/cam_receiver.py
+root       20872  0.0  0.1   7864  2024 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.3 152148 64180 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 15.4  4.5 261016 85472 pts/0    Sl+  20:57   0:07 python3 examples/cam_receiver.py
+root       20875  0.0  0.1   7864  2088 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.4 152532 64564 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 15.3  4.5 261016 85472 pts/0    Sl+  20:57   0:07 python3 examples/cam_receiver.py
+root       20878  0.0  0.1   7864  2088 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.4 152788 64820 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 15.2  4.5 261016 85472 pts/0    Sl+  20:57   0:08 python3 examples/cam_receiver.py
+root       20881  0.0  0.1   7864  2028 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.4 153180 65208 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 15.2  4.5 261016 85472 pts/0    Sl+  20:57   0:08 python3 examples/cam_receiver.py
+root       20884  0.0  0.1   7864  2092 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.5  3.4 153436 65468 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 15.0  4.5 261016 85472 pts/0    Sl+  20:57   0:08 python3 examples/cam_receiver.py
+root       20887  0.0  0.1   7864  1896 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.6  3.4 153820 65852 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 14.9  4.5 261016 85472 pts/0    Sl+  20:57   0:08 python3 examples/cam_receiver.py
+root       20890  0.0  0.1   7864  2016 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.6  3.4 154076 66108 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 14.8  4.5 261016 85472 pts/0    Sl+  20:57   0:08 python3 examples/cam_receiver.py
+root       20893  0.0  0.1   7864  2088 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.6  3.5 154336 66236 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 14.7  4.5 261016 85472 pts/0    Sl+  20:57   0:08 python3 examples/cam_receiver.py
+root       20896  0.0  0.1   7864  2028 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.6  3.5 154724 66756 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 14.6  4.5 261016 85472 pts/0    Sl+  20:57   0:08 python3 examples/cam_receiver.py
+root       20899  0.0  0.1   7864  2020 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.6  3.5 154980 67012 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 14.6  4.5 261016 85472 pts/0    Sl+  20:57   0:08 python3 examples/cam_receiver.py
+root       20902  0.0  0.1   7864  2016 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.6  3.5 155364 67268 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 14.5  4.5 261016 85736 pts/0    Sl+  20:57   0:08 python3 examples/cam_receiver.py
+root       20905  0.0  0.1   7864  2024 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.6  3.5 155624 67524 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 14.4  4.5 261016 85736 pts/0    Rl+  20:57   0:08 python3 examples/cam_receiver.py
+root       20908  0.0  0.1   7864  2020 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.6  3.5 155884 67916 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 14.7  4.8 298456 90844 pts/0    Rl+  20:57   0:09 python3 examples/cam_receiver.py
+root       20911  0.0  0.1   7864  2088 pts/1    S+   20:58   0:00 grep -e examples/ -e nfd
+ndn        20312  0.6  3.5 155884 67916 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 15.2  4.9 300508 94204 pts/0    Sl+  20:57   0:09 python3 examples/cam_receiver.py
+root       20914  0.0  0.1   7864  2024 pts/1    S+   20:59   0:00 grep -e examples/ -e nfd
+ndn        20312  0.6  3.5 155884 67916 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 15.0  4.9 300508 94204 pts/0    Sl+  20:57   0:09 python3 examples/cam_receiver.py
+root       20918  0.0  0.1   7864  2012 pts/1    S+   20:59   0:00 grep -e examples/ -e nfd
+ndn        20312  0.6  3.5 155884 67916 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 14.8  4.9 300508 94204 pts/0    Sl+  20:57   0:09 python3 examples/cam_receiver.py
+root       20921  0.0  0.1   7864  2020 pts/1    S+   20:59   0:00 grep -e examples/ -e nfd
+ndn        20312  0.6  3.5 155884 67916 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 14.6  4.9 300508 94204 pts/0    Sl+  20:57   0:09 python3 examples/cam_receiver.py
+root       20924  0.0  0.1   7864  2028 pts/1    S+   20:59   0:00 grep -e examples/ -e nfd
+ndn        20312  0.6  3.5 155884 67916 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 14.3  4.9 300508 94204 pts/0    Sl+  20:57   0:09 python3 examples/cam_receiver.py
+root       20927  0.0  0.1   7864  2012 pts/1    S+   20:59   0:00 grep -e examples/ -e nfd
+ndn        20312  0.6  3.5 155884 67916 ?        Ssl  20:49   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       20724 14.1  4.9 300508 94204 pts/0    Sl+  20:57   0:09 python3 examples/cam_receiver.py
+root       20930  0.0  0.1   7864  2088 pts/1    S+   20:59   0:00 grep -e examples/ -e nfd

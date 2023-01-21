@@ -1,0 +1,385 @@
+root     1721967  0.5  0.0 121332 33520 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723127  0.0  0.0   9000   648 pts/7    S+   22:48   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121332 33520 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723138  0.0  0.0   9000   712 pts/7    S+   22:48   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121332 33520 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723145  0.0  0.0   9000   720 pts/7    S+   22:48   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121460 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723150 17.0  0.0  92936 26924 pts/1    S+   22:48   0:00 python3 examples/wireless/lidar_sender.py
+root     1723151 18.0  0.0  92936 26916 pts/13   S+   22:48   0:00 python3 examples/wireless/can_sender.py
+root     1723152 17.0  0.0  92944 26844 pts/4    S+   22:48   0:00 python3 examples/wireless/cam_sender.py
+root     1723161  0.0  0.0   9000   720 pts/7    S+   22:48   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121460 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723150  8.5  0.0  92936 26924 pts/1    S+   22:48   0:00 python3 examples/wireless/lidar_sender.py
+root     1723151  9.0  0.0  92936 26916 pts/13   S+   22:48   0:00 python3 examples/wireless/can_sender.py
+root     1723152  8.5  0.0  92944 26844 pts/4    S+   22:48   0:00 python3 examples/wireless/cam_sender.py
+root     1723168  0.0  0.0   9000   720 pts/7    S+   22:48   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121460 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723175  0.0  0.0   9000   656 pts/7    S+   22:48   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121460 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723182  0.0  0.0   9000   712 pts/7    S+   22:48   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121460 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723189  0.0  0.0   9000   648 pts/7    S+   22:48   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121460 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723196  0.0  0.0   9000   712 pts/7    S+   22:48   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121460 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723204  0.0  0.0   9000   648 pts/7    S+   22:48   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121460 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723211  0.0  0.0   9000   712 pts/7    S+   22:48   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121460 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723218  0.0  0.0   9000   712 pts/7    S+   22:48   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121460 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723225  0.0  0.0   9000   712 pts/7    S+   22:48   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121460 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 17.0  0.0  92936 26960 pts/1    S+   22:48   0:00 python3 examples/wireless/lidar_sender.py
+root     1723235  0.0  0.0   9000   656 pts/7    S+   22:48   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121596 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229  8.5  0.0  92936 26960 pts/1    S+   22:48   0:00 python3 examples/wireless/lidar_sender.py
+root     1723239 16.0  0.0  92944 26880 pts/4    S+   22:48   0:00 python3 examples/wireless/cam_sender.py
+root     1723245  0.0  0.0  39948 22248 pts/13   R+   22:48   0:00 python3 examples/wireless/can_sender.py
+root     1723247  0.0  0.0   9000   724 pts/7    S+   22:48   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121596 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229  5.6  0.0  92936 26960 pts/1    S+   22:48   0:00 python3 examples/wireless/lidar_sender.py
+root     1723239  8.0  0.0  92944 26880 pts/4    S+   22:48   0:00 python3 examples/wireless/cam_sender.py
+root     1723245 17.0  0.0  92936 26884 pts/13   S+   22:48   0:00 python3 examples/wireless/can_sender.py
+root     1723255  0.0  0.0   9000   716 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121596 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229  4.2  0.0  92936 26960 pts/1    S+   22:48   0:00 python3 examples/wireless/lidar_sender.py
+root     1723239  5.3  0.0  92944 26880 pts/4    S+   22:48   0:00 python3 examples/wireless/cam_sender.py
+root     1723245  8.5  0.0  92936 26884 pts/13   S+   22:48   0:00 python3 examples/wireless/can_sender.py
+root     1723262  0.0  0.0   9000   652 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121596 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229  3.4  0.0  92936 26960 pts/1    S+   22:48   0:00 python3 examples/wireless/lidar_sender.py
+root     1723239  4.0  0.0  92944 26880 pts/4    S+   22:48   0:00 python3 examples/wireless/cam_sender.py
+root     1723245  5.6  0.0  92936 26884 pts/13   S+   22:48   0:00 python3 examples/wireless/can_sender.py
+root     1723269  0.0  0.0   9000   648 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121596 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229  2.8  0.0  92936 26960 pts/1    S+   22:48   0:00 python3 examples/wireless/lidar_sender.py
+root     1723239  3.2  0.0  92944 26880 pts/4    S+   22:48   0:00 python3 examples/wireless/cam_sender.py
+root     1723245  4.2  0.0  92936 26884 pts/13   S+   22:48   0:00 python3 examples/wireless/can_sender.py
+root     1723276  0.0  0.0   9000   716 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121596 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229  2.1  0.0  92936 26960 pts/1    S+   22:48   0:00 python3 examples/wireless/lidar_sender.py
+root     1723239  2.2  0.0  92944 26880 pts/4    S+   22:48   0:00 python3 examples/wireless/cam_sender.py
+root     1723245  3.5  0.0  92936 26884 pts/13   S+   22:48   0:00 python3 examples/wireless/can_sender.py
+root     1723283  0.0  0.0   9000   720 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121596 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229  1.8  0.0  92936 26960 pts/1    S+   22:48   0:00 python3 examples/wireless/lidar_sender.py
+root     1723239  3.6  0.0  92944 26880 pts/4    S+   22:48   0:00 python3 examples/wireless/cam_sender.py
+root     1723245  5.0  0.0  92936 26884 pts/13   S+   22:48   0:00 python3 examples/wireless/can_sender.py
+root     1723290  0.0  0.0   9000   712 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  0.5  0.0 121596 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229  3.2  0.0  92936 26960 pts/1    R+   22:48   0:00 python3 examples/wireless/lidar_sender.py
+root     1723239  5.4  0.0  92944 26880 pts/4    S+   22:48   0:00 python3 examples/wireless/cam_sender.py
+root     1723245  6.1  0.0  92936 26884 pts/13   S+   22:48   0:00 python3 examples/wireless/can_sender.py
+root     1723297  0.0  0.0   9000   648 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  0.6  0.0 121596 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229  6.0  0.0  92936 26960 pts/1    S+   22:48   0:00 python3 examples/wireless/lidar_sender.py
+root     1723239  7.1  0.0  92944 26880 pts/4    S+   22:48   0:00 python3 examples/wireless/cam_sender.py
+root     1723245  7.0  0.0  92936 26884 pts/13   S+   22:48   0:00 python3 examples/wireless/can_sender.py
+root     1723304  0.0  0.0   9000   720 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  0.6  0.0 121596 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229  8.5  0.0  92936 26960 pts/1    S+   22:48   0:01 python3 examples/wireless/lidar_sender.py
+root     1723239  8.4  0.0  92944 26880 pts/4    S+   22:48   0:00 python3 examples/wireless/cam_sender.py
+root     1723245  7.6  0.0  92936 26884 pts/13   S+   22:48   0:00 python3 examples/wireless/can_sender.py
+root     1723311  0.0  0.0   9000   720 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  0.7  0.0 121596 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 10.6  0.0  92936 26960 pts/1    S+   22:48   0:01 python3 examples/wireless/lidar_sender.py
+root     1723239  9.5  0.0  92944 26880 pts/4    S+   22:48   0:01 python3 examples/wireless/cam_sender.py
+root     1723245  8.0  0.0  92936 26884 pts/13   S+   22:48   0:00 python3 examples/wireless/can_sender.py
+root     1723318  0.0  0.0   9000   712 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  0.7  0.0 121596 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 12.4  0.0  92936 26960 pts/1    S+   22:48   0:01 python3 examples/wireless/lidar_sender.py
+root     1723239 10.5  0.0  92944 26880 pts/4    S+   22:48   0:01 python3 examples/wireless/cam_sender.py
+root     1723245  8.5  0.0  92936 26884 pts/13   S+   22:48   0:01 python3 examples/wireless/can_sender.py
+root     1723325  0.0  0.0   9000   720 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  0.7  0.0 121596 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 13.6  0.0  92936 26960 pts/1    S+   22:48   0:02 python3 examples/wireless/lidar_sender.py
+root     1723239 11.0  0.0  92944 26880 pts/4    S+   22:48   0:01 python3 examples/wireless/cam_sender.py
+root     1723245  8.7  0.0  92936 26884 pts/13   S+   22:48   0:01 python3 examples/wireless/can_sender.py
+root     1723332  0.0  0.0   9000   712 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  0.8  0.0 121596 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 14.9  0.0  92936 26960 pts/1    S+   22:48   0:02 python3 examples/wireless/lidar_sender.py
+root     1723239 11.7  0.0  92944 26880 pts/4    R+   22:48   0:01 python3 examples/wireless/cam_sender.py
+root     1723245  9.1  0.0  92936 26884 pts/13   S+   22:48   0:01 python3 examples/wireless/can_sender.py
+root     1723340  0.0  0.0   9000   720 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  0.8  0.0 121596 33644 ?        Ssl  22:45   0:01 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 16.0  0.0  92936 26960 pts/1    S+   22:48   0:02 python3 examples/wireless/lidar_sender.py
+root     1723239 12.2  0.0  92944 26880 pts/4    S+   22:48   0:01 python3 examples/wireless/cam_sender.py
+root     1723245  9.4  0.0  92936 26884 pts/13   S+   22:48   0:01 python3 examples/wireless/can_sender.py
+root     1723347  0.0  0.0   9000   720 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  0.9  0.0 121596 33644 ?        Ssl  22:45   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 17.0  0.0  92936 26960 pts/1    S+   22:48   0:03 python3 examples/wireless/lidar_sender.py
+root     1723239 12.7  0.0  92944 26880 pts/4    S+   22:48   0:02 python3 examples/wireless/cam_sender.py
+root     1723245  9.5  0.0  92936 26884 pts/13   S+   22:48   0:01 python3 examples/wireless/can_sender.py
+root     1723354  0.0  0.0   9000   652 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  0.9  0.0 121596 33644 ?        Ssl  22:45   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 17.8  0.0  92936 26960 pts/1    S+   22:48   0:03 python3 examples/wireless/lidar_sender.py
+root     1723239 13.2  0.0  92944 26880 pts/4    S+   22:48   0:02 python3 examples/wireless/cam_sender.py
+root     1723245  9.7  0.0  92936 26884 pts/13   S+   22:48   0:01 python3 examples/wireless/can_sender.py
+root     1723361  0.0  0.0   9000   720 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  0.9  0.0 121596 33644 ?        Ssl  22:45   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 18.7  0.0  92936 26960 pts/1    S+   22:48   0:03 python3 examples/wireless/lidar_sender.py
+root     1723239 13.5  0.0  92944 26880 pts/4    S+   22:48   0:02 python3 examples/wireless/cam_sender.py
+root     1723245  9.9  0.0  92936 26884 pts/13   S+   22:48   0:01 python3 examples/wireless/can_sender.py
+root     1723368  0.0  0.0   9000   652 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.0  0.0 121596 33644 ?        Ssl  22:45   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 19.4  0.0  92936 26960 pts/1    R+   22:48   0:04 python3 examples/wireless/lidar_sender.py
+root     1723239 13.9  0.0  92944 27084 pts/4    S+   22:48   0:02 python3 examples/wireless/cam_sender.py
+root     1723245 10.1  0.0  92936 26884 pts/13   S+   22:48   0:01 python3 examples/wireless/can_sender.py
+root     1723375  0.0  0.0   9000   712 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.0  0.0 121596 33644 ?        Ssl  22:45   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 19.9  0.0  92936 26960 pts/1    S+   22:48   0:04 python3 examples/wireless/lidar_sender.py
+root     1723239 14.0  0.0  92944 27084 pts/4    S+   22:48   0:02 python3 examples/wireless/cam_sender.py
+root     1723245 10.1  0.0  92936 26884 pts/13   S+   22:48   0:02 python3 examples/wireless/can_sender.py
+root     1723382  0.0  0.0   9000   656 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.1  0.0 121596 33644 ?        Ssl  22:45   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 20.5  0.0  92936 26960 pts/1    S+   22:48   0:04 python3 examples/wireless/lidar_sender.py
+root     1723239 14.4  0.0  92944 27084 pts/4    S+   22:48   0:03 python3 examples/wireless/cam_sender.py
+root     1723245 10.2  0.0  92936 26884 pts/13   S+   22:48   0:02 python3 examples/wireless/can_sender.py
+root     1723389  0.0  0.0   9000   716 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.1  0.0 121596 33644 ?        Ssl  22:45   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 21.0  0.0  92936 26960 pts/1    S+   22:48   0:05 python3 examples/wireless/lidar_sender.py
+root     1723239 14.6  0.0  92944 27084 pts/4    S+   22:48   0:03 python3 examples/wireless/cam_sender.py
+root     1723245 10.3  0.0  92936 26884 pts/13   S+   22:48   0:02 python3 examples/wireless/can_sender.py
+root     1723396  0.0  0.0   9000   716 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.1  0.0 121596 33644 ?        Ssl  22:45   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 21.6  0.0  92936 26960 pts/1    S+   22:48   0:05 python3 examples/wireless/lidar_sender.py
+root     1723239 14.9  0.0  92944 27084 pts/4    S+   22:48   0:03 python3 examples/wireless/cam_sender.py
+root     1723245 10.5  0.0  92936 26884 pts/13   S+   22:48   0:02 python3 examples/wireless/can_sender.py
+root     1723404  0.0  0.0   9000   656 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.2  0.0 121596 33644 ?        Ssl  22:45   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 22.1  0.0  92936 26960 pts/1    S+   22:48   0:05 python3 examples/wireless/lidar_sender.py
+root     1723239 15.2  0.0  92944 27084 pts/4    S+   22:48   0:03 python3 examples/wireless/cam_sender.py
+root     1723245 10.6  0.0  92936 26884 pts/13   S+   22:48   0:02 python3 examples/wireless/can_sender.py
+root     1723411  0.0  0.0   9000   652 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.2  0.0 121596 33644 ?        Ssl  22:45   0:02 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 22.5  0.0  92936 26960 pts/1    R+   22:48   0:06 python3 examples/wireless/lidar_sender.py
+root     1723239 15.4  0.0  92944 27084 pts/4    S+   22:48   0:04 python3 examples/wireless/cam_sender.py
+root     1723245 10.6  0.0  92936 26884 pts/13   S+   22:48   0:02 python3 examples/wireless/can_sender.py
+root     1723418  0.0  0.0   9000   720 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.2  0.0 121596 33644 ?        Rsl  22:45   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 22.8  0.0  92936 26960 pts/1    S+   22:48   0:06 python3 examples/wireless/lidar_sender.py
+root     1723239 15.5  0.0  92944 27084 pts/4    S+   22:48   0:04 python3 examples/wireless/cam_sender.py
+root     1723245 10.7  0.0  92936 26884 pts/13   S+   22:48   0:02 python3 examples/wireless/can_sender.py
+root     1723425  0.0  0.0   9000   656 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.3  0.0 121596 33644 ?        Ssl  22:45   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 23.3  0.0  92936 26960 pts/1    S+   22:48   0:06 python3 examples/wireless/lidar_sender.py
+root     1723239 15.7  0.0  92944 27084 pts/4    S+   22:48   0:04 python3 examples/wireless/cam_sender.py
+root     1723245 10.8  0.0  92936 26884 pts/13   S+   22:48   0:02 python3 examples/wireless/can_sender.py
+root     1723432  0.0  0.0   9000   660 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.3  0.0 121596 33644 ?        Ssl  22:45   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 23.6  0.0  92936 26960 pts/1    S+   22:48   0:07 python3 examples/wireless/lidar_sender.py
+root     1723239 15.9  0.0  92944 27084 pts/4    S+   22:48   0:04 python3 examples/wireless/cam_sender.py
+root     1723245 10.8  0.0  92936 26884 pts/13   S+   22:48   0:03 python3 examples/wireless/can_sender.py
+root     1723439  0.0  0.0   9000   720 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.3  0.0 121596 33644 ?        Ssl  22:45   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 23.9  0.0  92936 26960 pts/1    S+   22:48   0:07 python3 examples/wireless/lidar_sender.py
+root     1723239 16.1  0.0  92944 27084 pts/4    S+   22:48   0:04 python3 examples/wireless/cam_sender.py
+root     1723245 10.9  0.0  92936 26884 pts/13   S+   22:48   0:03 python3 examples/wireless/can_sender.py
+root     1723446  0.0  0.0   9000   648 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.4  0.0 121596 33644 ?        Ssl  22:45   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 24.2  0.0  92936 26960 pts/1    R+   22:48   0:07 python3 examples/wireless/lidar_sender.py
+root     1723239 16.2  0.0  92944 27084 pts/4    S+   22:48   0:05 python3 examples/wireless/cam_sender.py
+root     1723245 11.0  0.0  92936 26884 pts/13   S+   22:48   0:03 python3 examples/wireless/can_sender.py
+root     1723453  0.0  0.0   9000   720 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.4  0.0 121596 33644 ?        Ssl  22:45   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 24.5  0.0  92936 26960 pts/1    R+   22:48   0:08 python3 examples/wireless/lidar_sender.py
+root     1723239 16.4  0.0  92944 27084 pts/4    S+   22:48   0:05 python3 examples/wireless/cam_sender.py
+root     1723245 11.0  0.0  92936 26884 pts/13   S+   22:48   0:03 python3 examples/wireless/can_sender.py
+root     1723460  0.0  0.0   9000   720 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.4  0.0 121596 33644 ?        Ssl  22:45   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 24.7  0.0  92936 26960 pts/1    S+   22:48   0:08 python3 examples/wireless/lidar_sender.py
+root     1723239 16.4  0.0  92944 27084 pts/4    S+   22:48   0:05 python3 examples/wireless/cam_sender.py
+root     1723245 11.0  0.0  92936 26884 pts/13   S+   22:48   0:03 python3 examples/wireless/can_sender.py
+root     1723477  0.0  0.0   9000   720 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.5  0.0 121596 33644 ?        Ssl  22:45   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 25.0  0.0  92936 26960 pts/1    S+   22:48   0:08 python3 examples/wireless/lidar_sender.py
+root     1723239 16.6  0.0  92944 27084 pts/4    S+   22:48   0:05 python3 examples/wireless/cam_sender.py
+root     1723245 11.1  0.0  92936 26884 pts/13   S+   22:48   0:03 python3 examples/wireless/can_sender.py
+root     1723484  0.0  0.0   9000   720 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.5  0.0 121596 33644 ?        Ssl  22:45   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 25.2  0.0  92936 26960 pts/1    S+   22:48   0:09 python3 examples/wireless/lidar_sender.py
+root     1723239 16.7  0.0  92944 27084 pts/4    S+   22:48   0:05 python3 examples/wireless/cam_sender.py
+root     1723245 11.2  0.0  92936 26884 pts/13   S+   22:48   0:03 python3 examples/wireless/can_sender.py
+root     1723491  0.0  0.0   9000   716 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.5  0.0 121596 33644 ?        Ssl  22:45   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 25.5  0.0  92936 26960 pts/1    S+   22:48   0:09 python3 examples/wireless/lidar_sender.py
+root     1723239 16.8  0.0  92944 27084 pts/4    S+   22:48   0:06 python3 examples/wireless/cam_sender.py
+root     1723245 11.2  0.0  92936 26884 pts/13   S+   22:48   0:03 python3 examples/wireless/can_sender.py
+root     1723498  0.0  0.0   9000   656 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.6  0.0 121596 33644 ?        Ssl  22:45   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 25.7  0.0  92936 26960 pts/1    S+   22:48   0:09 python3 examples/wireless/lidar_sender.py
+root     1723239 16.9  0.0  92944 27084 pts/4    S+   22:48   0:06 python3 examples/wireless/cam_sender.py
+root     1723245 11.2  0.0  92936 26884 pts/13   S+   22:48   0:04 python3 examples/wireless/can_sender.py
+root     1723505  0.0  0.0   9000   652 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.6  0.0 121596 33644 ?        Ssl  22:45   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 25.8  0.0  92936 26960 pts/1    S+   22:48   0:10 python3 examples/wireless/lidar_sender.py
+root     1723239 17.0  0.0  92944 27084 pts/4    S+   22:48   0:06 python3 examples/wireless/cam_sender.py
+root     1723245 11.2  0.0  92936 26884 pts/13   S+   22:48   0:04 python3 examples/wireless/can_sender.py
+root     1723512  0.0  0.0   9000   712 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.7  0.0 121596 33644 ?        Ssl  22:45   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 26.0  0.0  92936 26960 pts/1    S+   22:48   0:10 python3 examples/wireless/lidar_sender.py
+root     1723239 17.1  0.0  92944 27084 pts/4    S+   22:48   0:06 python3 examples/wireless/cam_sender.py
+root     1723245 11.3  0.0  92936 26884 pts/13   S+   22:48   0:04 python3 examples/wireless/can_sender.py
+root     1723519  0.0  0.0   9000   648 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.7  0.0 121596 33644 ?        Ssl  22:45   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 26.2  0.0  92936 26960 pts/1    S+   22:48   0:10 python3 examples/wireless/lidar_sender.py
+root     1723239 17.2  0.0  92944 27084 pts/4    S+   22:48   0:06 python3 examples/wireless/cam_sender.py
+root     1723245 11.4  0.0  92936 26884 pts/13   S+   22:48   0:04 python3 examples/wireless/can_sender.py
+root     1723527  0.0  0.0   9000   716 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.7  0.0 121596 33644 ?        Ssl  22:45   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 26.4  0.0  92936 26960 pts/1    S+   22:48   0:11 python3 examples/wireless/lidar_sender.py
+root     1723239 17.3  0.0  92944 27084 pts/4    S+   22:48   0:07 python3 examples/wireless/cam_sender.py
+root     1723245 11.4  0.0  92936 26884 pts/13   S+   22:48   0:04 python3 examples/wireless/can_sender.py
+root     1723534  0.0  0.0   9000   648 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.8  0.0 121596 33644 ?        Ssl  22:45   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 26.5  0.0  92936 26960 pts/1    S+   22:48   0:11 python3 examples/wireless/lidar_sender.py
+root     1723239 17.4  0.0  92944 27084 pts/4    S+   22:48   0:07 python3 examples/wireless/cam_sender.py
+root     1723245 11.4  0.0  92936 26884 pts/13   S+   22:48   0:04 python3 examples/wireless/can_sender.py
+root     1723541  0.0  0.0   9000   712 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.8  0.0 121596 33644 ?        Ssl  22:45   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 26.1  0.0  92936 26960 pts/1    S+   22:48   0:11 python3 examples/wireless/lidar_sender.py
+root     1723239 17.1  0.0  92944 27084 pts/4    S+   22:48   0:07 python3 examples/wireless/cam_sender.py
+root     1723245 11.2  0.0  92936 26884 pts/13   S+   22:48   0:04 python3 examples/wireless/can_sender.py
+root     1723548  0.0  0.0   9000   712 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.8  0.0 121596 33644 ?        Ssl  22:45   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 26.3  0.0  92936 26960 pts/1    S+   22:48   0:12 python3 examples/wireless/lidar_sender.py
+root     1723239 17.2  0.0  92944 27084 pts/4    S+   22:48   0:07 python3 examples/wireless/cam_sender.py
+root     1723245 11.2  0.0  92936 26884 pts/13   S+   22:48   0:04 python3 examples/wireless/can_sender.py
+root     1723555  0.0  0.0   9000   720 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.8  0.0 121596 33644 ?        Ssl  22:45   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 26.4  0.0  92936 26960 pts/1    S+   22:48   0:12 python3 examples/wireless/lidar_sender.py
+root     1723239 17.2  0.0  92944 27084 pts/4    R+   22:48   0:07 python3 examples/wireless/cam_sender.py
+root     1723245 11.3  0.0  92936 26884 pts/13   S+   22:48   0:05 python3 examples/wireless/can_sender.py
+root     1723562  0.0  0.0   9000   660 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.9  0.0 121596 33644 ?        Ssl  22:45   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 26.6  0.0  92936 26960 pts/1    S+   22:48   0:12 python3 examples/wireless/lidar_sender.py
+root     1723239 17.3  0.0  92944 27084 pts/4    S+   22:48   0:08 python3 examples/wireless/cam_sender.py
+root     1723245 11.3  0.0  92936 26884 pts/13   S+   22:48   0:05 python3 examples/wireless/can_sender.py
+root     1723570  0.0  0.0   9000   716 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.9  0.0 121596 33644 ?        Ssl  22:45   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 26.7  0.0  92936 26960 pts/1    S+   22:48   0:13 python3 examples/wireless/lidar_sender.py
+root     1723239 17.4  0.0  92944 27084 pts/4    S+   22:48   0:08 python3 examples/wireless/cam_sender.py
+root     1723245 11.3  0.0  92936 26884 pts/13   R+   22:48   0:05 python3 examples/wireless/can_sender.py
+root     1723577  0.0  0.0   9000   720 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  1.9  0.0 121596 33644 ?        Ssl  22:45   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 26.8  0.0  92936 26960 pts/1    S+   22:48   0:13 python3 examples/wireless/lidar_sender.py
+root     1723239 17.4  0.0  92944 27084 pts/4    R+   22:48   0:08 python3 examples/wireless/cam_sender.py
+root     1723245 11.4  0.0  92936 26884 pts/13   S+   22:48   0:05 python3 examples/wireless/can_sender.py
+root     1723584  0.0  0.0   9000   720 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  2.0  0.0 121596 33644 ?        Ssl  22:45   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 27.0  0.0  92936 26960 pts/1    S+   22:48   0:13 python3 examples/wireless/lidar_sender.py
+root     1723239 17.6  0.0  92944 27084 pts/4    S+   22:48   0:08 python3 examples/wireless/cam_sender.py
+root     1723245 11.4  0.0  92936 26884 pts/13   S+   22:48   0:05 python3 examples/wireless/can_sender.py
+root     1723591  0.0  0.0   9000   724 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  2.0  0.0 121596 33644 ?        Ssl  22:45   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 27.1  0.0  92936 26960 pts/1    S+   22:48   0:14 python3 examples/wireless/lidar_sender.py
+root     1723239 17.6  0.0  92944 27084 pts/4    S+   22:48   0:09 python3 examples/wireless/cam_sender.py
+root     1723245 11.5  0.0  92936 26884 pts/13   S+   22:48   0:05 python3 examples/wireless/can_sender.py
+root     1723598  0.0  0.0   9000   660 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  2.0  0.0 121596 33644 ?        Ssl  22:45   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 27.2  0.0  92936 26960 pts/1    S+   22:48   0:14 python3 examples/wireless/lidar_sender.py
+root     1723239 17.6  0.0  92944 27084 pts/4    S+   22:48   0:09 python3 examples/wireless/cam_sender.py
+root     1723245 11.5  0.0  92936 26884 pts/13   S+   22:48   0:05 python3 examples/wireless/can_sender.py
+root     1723605  0.0  0.0   9000   652 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  2.0  0.0 121596 33644 ?        Ssl  22:45   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 27.2  0.0  92936 26960 pts/1    S+   22:48   0:14 python3 examples/wireless/lidar_sender.py
+root     1723239 17.6  0.0  92944 27084 pts/4    S+   22:48   0:09 python3 examples/wireless/cam_sender.py
+root     1723245 11.5  0.0  92936 26884 pts/13   S+   22:48   0:05 python3 examples/wireless/can_sender.py
+root     1723613  0.0  0.0   9000   656 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  2.1  0.0 121596 33644 ?        Ssl  22:45   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 27.4  0.0  92936 26960 pts/1    S+   22:48   0:15 python3 examples/wireless/lidar_sender.py
+root     1723239 17.7  0.0  92944 27084 pts/4    R+   22:48   0:09 python3 examples/wireless/cam_sender.py
+root     1723245 11.5  0.0  92936 26884 pts/13   S+   22:48   0:06 python3 examples/wireless/can_sender.py
+root     1723620  0.0  0.0   9000   648 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  2.1  0.0 121596 33644 ?        Ssl  22:45   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 27.5  0.0  92936 26960 pts/1    S+   22:48   0:15 python3 examples/wireless/lidar_sender.py
+root     1723239 17.7  0.0  92944 27084 pts/4    S+   22:48   0:09 python3 examples/wireless/cam_sender.py
+root     1723245 11.6  0.0  92936 26884 pts/13   S+   22:48   0:06 python3 examples/wireless/can_sender.py
+root     1723627  0.0  0.0   9000   712 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  2.1  0.0 121596 33644 ?        Ssl  22:45   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 27.5  0.0  92936 26960 pts/1    S+   22:48   0:15 python3 examples/wireless/lidar_sender.py
+root     1723239 17.7  0.0  92944 27084 pts/4    S+   22:48   0:09 python3 examples/wireless/cam_sender.py
+root     1723245 11.6  0.0  92936 26884 pts/13   S+   22:48   0:06 python3 examples/wireless/can_sender.py
+root     1723634  0.0  0.0   9000   720 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  2.2  0.0 121596 33644 ?        Ssl  22:45   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 27.6  0.0  92936 26960 pts/1    S+   22:48   0:16 python3 examples/wireless/lidar_sender.py
+root     1723239 17.7  0.0  92944 27084 pts/4    S+   22:48   0:10 python3 examples/wireless/cam_sender.py
+root     1723245 11.6  0.0  92936 26884 pts/13   S+   22:48   0:06 python3 examples/wireless/can_sender.py
+root     1723641  0.0  0.0   9000   720 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  2.2  0.0 121596 33644 ?        Ssl  22:45   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 27.7  0.0  92936 26960 pts/1    S+   22:48   0:16 python3 examples/wireless/lidar_sender.py
+root     1723239 17.8  0.0  92944 27084 pts/4    S+   22:48   0:10 python3 examples/wireless/cam_sender.py
+root     1723245 11.6  0.0  92936 26884 pts/13   S+   22:48   0:06 python3 examples/wireless/can_sender.py
+root     1723648  0.0  0.0   9000   652 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  2.2  0.0 121596 33644 ?        Ssl  22:45   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 27.8  0.0  92936 26960 pts/1    S+   22:48   0:16 python3 examples/wireless/lidar_sender.py
+root     1723239 17.8  0.0  92944 27084 pts/4    S+   22:48   0:10 python3 examples/wireless/cam_sender.py
+root     1723245 11.6  0.0  92936 26884 pts/13   R+   22:48   0:06 python3 examples/wireless/can_sender.py
+root     1723655  0.0  0.0   9000   656 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  2.2  0.0 121596 33644 ?        Ssl  22:45   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 27.9  0.0  92936 26960 pts/1    S+   22:48   0:17 python3 examples/wireless/lidar_sender.py
+root     1723239 17.9  0.0  92944 27084 pts/4    S+   22:48   0:10 python3 examples/wireless/cam_sender.py
+root     1723245 11.6  0.0  92936 26884 pts/13   S+   22:48   0:06 python3 examples/wireless/can_sender.py
+root     1723662  0.0  0.0   9000   712 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  2.3  0.0 121596 33644 ?        Ssl  22:45   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 28.0  0.0  92936 26960 pts/1    S+   22:48   0:17 python3 examples/wireless/lidar_sender.py
+root     1723239 17.9  0.0  92944 27084 pts/4    R+   22:48   0:10 python3 examples/wireless/cam_sender.py
+root     1723245 11.7  0.0  92936 26884 pts/13   S+   22:48   0:07 python3 examples/wireless/can_sender.py
+root     1723669  0.0  0.0   9000   656 pts/7    S+   22:49   0:00 grep -e examples/ -e nfd
+root     1721967  2.3  0.0 121596 33644 ?        Ssl  22:45   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 28.1  0.0  92936 26960 pts/1    S+   22:48   0:17 python3 examples/wireless/lidar_sender.py
+root     1723239 18.0  0.0  92944 27084 pts/4    S+   22:48   0:11 python3 examples/wireless/cam_sender.py
+root     1723245 11.7  0.0  92936 26884 pts/13   S+   22:48   0:07 python3 examples/wireless/can_sender.py
+root     1723676  0.0  0.0   9000   716 pts/7    S+   22:50   0:00 grep -e examples/ -e nfd
+root     1721967  2.3  0.0 121596 33644 ?        Ssl  22:45   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 28.2  0.0  92936 26960 pts/1    S+   22:48   0:18 python3 examples/wireless/lidar_sender.py
+root     1723239 18.0  0.0  92944 27084 pts/4    S+   22:48   0:11 python3 examples/wireless/cam_sender.py
+root     1723245 11.7  0.0  92936 26884 pts/13   S+   22:48   0:07 python3 examples/wireless/can_sender.py
+root     1723683  0.0  0.0   9000   656 pts/7    S+   22:50   0:00 grep -e examples/ -e nfd
+root     1721967  2.3  0.0 121596 33644 ?        Rsl  22:45   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 28.3  0.0  92936 26960 pts/1    S+   22:48   0:18 python3 examples/wireless/lidar_sender.py
+root     1723239 18.1  0.0  92944 27084 pts/4    S+   22:48   0:11 python3 examples/wireless/cam_sender.py
+root     1723245 11.7  0.0  92936 26884 pts/13   S+   22:48   0:07 python3 examples/wireless/can_sender.py
+root     1723690  0.0  0.0   9000   716 pts/7    S+   22:50   0:00 grep -e examples/ -e nfd
+root     1721967  2.4  0.0 121596 33644 ?        Ssl  22:45   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 28.3  0.0  92936 26960 pts/1    S+   22:48   0:18 python3 examples/wireless/lidar_sender.py
+root     1723239 18.1  0.0  92944 27084 pts/4    S+   22:48   0:11 python3 examples/wireless/cam_sender.py
+root     1723245 11.7  0.0  92936 26884 pts/13   S+   22:48   0:07 python3 examples/wireless/can_sender.py
+root     1723697  0.0  0.0   9000   652 pts/7    S+   22:50   0:00 grep -e examples/ -e nfd
+root     1721967  2.4  0.0 121596 33644 ?        Ssl  22:45   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 28.4  0.0  92936 26960 pts/1    S+   22:48   0:19 python3 examples/wireless/lidar_sender.py
+root     1723239 18.1  0.0  92944 27084 pts/4    S+   22:48   0:12 python3 examples/wireless/cam_sender.py
+root     1723245 11.8  0.0  92936 26884 pts/13   S+   22:48   0:07 python3 examples/wireless/can_sender.py
+root     1723704  0.0  0.0   9000   712 pts/7    S+   22:50   0:00 grep -e examples/ -e nfd
+root     1721967  2.4  0.0 121596 33644 ?        Ssl  22:45   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 28.5  0.0  92936 26960 pts/1    S+   22:48   0:19 python3 examples/wireless/lidar_sender.py
+root     1723239 18.1  0.0  92944 27084 pts/4    S+   22:48   0:12 python3 examples/wireless/cam_sender.py
+root     1723245 11.6  0.0  92936 26884 pts/13   S+   22:48   0:07 python3 examples/wireless/can_sender.py
+root     1723711  0.0  0.0   9000   724 pts/7    S+   22:50   0:00 grep -e examples/ -e nfd
+root     1721967  2.4  0.0 121596 33644 ?        Ssl  22:45   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 28.5  0.0  92936 26960 pts/1    S+   22:48   0:19 python3 examples/wireless/lidar_sender.py
+root     1723239 17.8  0.0  92944 27084 pts/4    S+   22:48   0:12 python3 examples/wireless/cam_sender.py
+root     1723245 11.4  0.0  92936 26884 pts/13   S+   22:48   0:07 python3 examples/wireless/can_sender.py
+root     1723718  0.0  0.0   9000   660 pts/7    S+   22:50   0:00 grep -e examples/ -e nfd
+root     1721967  2.4  0.0 121596 33644 ?        Ssl  22:45   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 28.1  0.0  92936 26960 pts/1    S+   22:48   0:19 python3 examples/wireless/lidar_sender.py
+root     1723239 17.6  0.0  92944 27084 pts/4    S+   22:48   0:12 python3 examples/wireless/cam_sender.py
+root     1723245 11.2  0.0  92936 26884 pts/13   S+   22:48   0:07 python3 examples/wireless/can_sender.py
+root     1723725  0.0  0.0   9000   720 pts/7    S+   22:50   0:00 grep -e examples/ -e nfd
+root     1721967  2.4  0.0 121596 33644 ?        Ssl  22:45   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 27.7  0.0  92936 26960 pts/1    S+   22:48   0:19 python3 examples/wireless/lidar_sender.py
+root     1723239 17.3  0.0  92944 27084 pts/4    S+   22:48   0:12 python3 examples/wireless/cam_sender.py
+root     1723245 11.1  0.0  92936 26884 pts/13   S+   22:48   0:07 python3 examples/wireless/can_sender.py
+root     1723734  0.0  0.0   9000   712 pts/7    S+   22:50   0:00 grep -e examples/ -e nfd
+root     1721967  2.4  0.0 121596 33644 ?        Ssl  22:45   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 27.3  0.0  92936 26960 pts/1    S+   22:48   0:19 python3 examples/wireless/lidar_sender.py
+root     1723239 17.1  0.0  92944 27084 pts/4    S+   22:48   0:12 python3 examples/wireless/cam_sender.py
+root     1723245 10.9  0.0  92936 26884 pts/13   S+   22:48   0:07 python3 examples/wireless/can_sender.py
+root     1723741  0.0  0.0   9000   712 pts/7    S+   22:50   0:00 grep -e examples/ -e nfd
+root     1721967  2.4  0.0 121596 33644 ?        Ssl  22:45   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root     1723229 27.0  0.0  92936 26960 pts/1    S+   22:48   0:19 python3 examples/wireless/lidar_sender.py
+root     1723239 16.9  0.0  92944 27084 pts/4    S+   22:48   0:12 python3 examples/wireless/cam_sender.py
+root     1723245 10.8  0.0  92936 26884 pts/13   S+   22:48   0:07 python3 examples/wireless/can_sender.py
+root     1723748  0.0  0.0   9000   652 pts/7    S+   22:50   0:00 grep -e examples/ -e nfd

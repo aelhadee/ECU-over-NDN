@@ -1,0 +1,218 @@
+ndn        24584  0.9  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24863  0.0  0.1   7864  1900 pts/1    S+   19:54   0:00 grep -e examples/ -e nfd
+ndn        24584  0.9  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24866  0.0  0.1   7864  2016 pts/1    S+   19:54   0:00 grep -e examples/ -e nfd
+ndn        24584  0.9  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24869  0.0  0.1   7864  2088 pts/1    S+   19:54   0:00 grep -e examples/ -e nfd
+ndn        24584  0.9  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24872  0.0  0.1   7864  1896 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  0.9  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24875  0.0  0.1   7864  2132 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  0.9  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24878  0.0  0.1   7864  1900 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  0.9  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24881  0.0  0.1   7864  2028 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  0.9  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24884  0.0  0.1   7864  1900 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  0.9  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24887  0.0  0.1   7864  2092 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  0.9  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24890  0.0  0.1   7864  2028 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  0.9  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 79.0  1.6 189968 32128 pts/0    Rl+  19:55   0:00 python3 examples/lidar_receiver.py
+root       24900  0.0  0.1   7864  2028 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  0.9  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 92.0  3.9 249328 73888 pts/0    Rl+  19:55   0:01 python3 examples/lidar_receiver.py
+root       24903  0.0  0.1   7864  2084 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  0.9  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 96.3  4.2 256876 81236 pts/0    Rl+  19:55   0:02 python3 examples/lidar_receiver.py
+root       24906  0.0  0.1   7864  1968 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  0.9  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 94.7  4.5 260756 85596 pts/0    Sl+  19:55   0:03 python3 examples/lidar_receiver.py
+root       24909  0.0  0.1   7864  2012 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  0.9  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 81.0  4.5 260756 85596 pts/0    Sl+  19:55   0:04 python3 examples/lidar_receiver.py
+root       24912  0.0  0.1   7864  2088 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  0.9  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 71.6  4.5 260756 85596 pts/0    Rl+  19:55   0:04 python3 examples/lidar_receiver.py
+root       24915  0.0  0.1   7864  2092 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.0  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 65.0  4.5 260756 85596 pts/0    Sl+  19:55   0:04 python3 examples/lidar_receiver.py
+root       24918  0.0  0.1   7864  2016 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.0  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 60.6  4.5 260756 85792 pts/0    Sl+  19:55   0:04 python3 examples/lidar_receiver.py
+root       24921  0.0  0.1   7864  2020 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.0  1.5 117616 29648 ?        Ssl  19:48   0:03 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 56.7  4.5 261012 85792 pts/0    Sl+  19:55   0:05 python3 examples/lidar_receiver.py
+root       24924  0.0  0.1   7864  2028 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.0  1.5 117616 29648 ?        Ssl  19:48   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 53.7  4.5 261012 85792 pts/0    Rl+  19:55   0:05 python3 examples/lidar_receiver.py
+root       24927  0.0  0.1   7864  2092 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.0  1.5 117616 29648 ?        Ssl  19:48   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 51.0  4.5 261012 85792 pts/0    Sl+  19:55   0:05 python3 examples/lidar_receiver.py
+root       24930  0.0  0.1   7864  2088 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.0  1.5 117616 29648 ?        Ssl  19:48   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 48.8  4.5 261012 85792 pts/0    Sl+  19:55   0:05 python3 examples/lidar_receiver.py
+root       24933  0.0  0.1   7864  1900 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.1  1.5 117616 29648 ?        Ssl  19:48   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 47.1  4.5 261012 85792 pts/0    Sl+  19:55   0:06 python3 examples/lidar_receiver.py
+root       24936  0.0  0.1   7864  2028 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.1  1.5 117616 29648 ?        Ssl  19:48   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 45.5  4.5 261012 85792 pts/0    Rl+  19:55   0:06 python3 examples/lidar_receiver.py
+root       24939  0.0  0.1   7864  1896 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.1  1.5 117616 29648 ?        Ssl  19:48   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 44.2  4.5 261012 85792 pts/0    Sl+  19:55   0:06 python3 examples/lidar_receiver.py
+root       24942  0.0  0.1   7864  2028 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.1  1.5 117616 29648 ?        Ssl  19:48   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 43.0  4.5 261012 85792 pts/0    Sl+  19:55   0:06 python3 examples/lidar_receiver.py
+root       24945  0.0  0.1   7864  2020 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.1  1.5 117616 29648 ?        Ssl  19:48   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 42.0  4.5 261012 85792 pts/0    Sl+  19:55   0:07 python3 examples/lidar_receiver.py
+root       24948  0.0  0.1   7864  1964 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.1  1.5 117616 29648 ?        Ssl  19:48   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 41.2  4.5 261012 85792 pts/0    Sl+  19:55   0:07 python3 examples/lidar_receiver.py
+root       24951  0.0  0.1   7864  2020 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.1  1.5 117616 29648 ?        Ssl  19:48   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 40.3  4.5 261012 85792 pts/0    Sl+  19:55   0:07 python3 examples/lidar_receiver.py
+root       24954  0.0  0.1   7864  2088 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.2  1.5 117616 29648 ?        Ssl  19:48   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 39.5  4.5 261012 85792 pts/0    Rl+  19:55   0:07 python3 examples/lidar_receiver.py
+root       24957  0.0  0.1   7864  2016 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.2  1.5 117616 29648 ?        Ssl  19:48   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 38.9  4.5 261012 85792 pts/0    Sl+  19:55   0:08 python3 examples/lidar_receiver.py
+root       24960  0.0  0.1   7864  2028 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.2  1.5 117616 29648 ?        Ssl  19:48   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 36.6  4.5 261012 86056 pts/0    Sl+  19:55   0:08 python3 examples/lidar_receiver.py
+root       24963  0.0  0.1   7864  2028 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.2  1.5 117616 29648 ?        Ssl  19:48   0:04 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 36.2  4.5 261012 86056 pts/0    Sl+  19:55   0:08 python3 examples/lidar_receiver.py
+root       24966  0.0  0.1   7864  2008 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.2  1.5 117616 29648 ?        Ssl  19:48   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 35.8  4.5 261012 86056 pts/0    Sl+  19:55   0:08 python3 examples/lidar_receiver.py
+root       24969  0.0  0.1   7864  2028 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.2  1.5 117616 29648 ?        Ssl  19:48   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 35.4  4.5 261012 86056 pts/0    Rl+  19:55   0:09 python3 examples/lidar_receiver.py
+root       24972  0.0  0.1   7864  2028 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.2  1.5 117616 29648 ?        Rsl  19:48   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 35.1  4.5 261012 86056 pts/0    Sl+  19:55   0:09 python3 examples/lidar_receiver.py
+root       24975  0.0  0.1   7864  2020 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.3  1.5 117616 29648 ?        Ssl  19:48   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 34.7  4.5 261012 86056 pts/0    Sl+  19:55   0:09 python3 examples/lidar_receiver.py
+root       24978  0.0  0.0   7864  1868 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.3  1.5 117616 29648 ?        Ssl  19:48   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 34.5  4.5 261012 86056 pts/0    Sl+  19:55   0:10 python3 examples/lidar_receiver.py
+root       24981  0.0  0.1   7864  2024 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.3  1.5 117616 29648 ?        Ssl  19:48   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 34.2  4.5 261012 86056 pts/0    Sl+  19:55   0:10 python3 examples/lidar_receiver.py
+root       24984  0.0  0.1   7864  2028 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.3  1.5 117616 29648 ?        Rsl  19:48   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 33.9  4.5 261012 86056 pts/0    Sl+  19:55   0:10 python3 examples/lidar_receiver.py
+root       24987  0.0  0.1   7864  2020 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.3  1.5 117616 29648 ?        Ssl  19:48   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 33.6  4.5 261012 86056 pts/0    Sl+  19:55   0:10 python3 examples/lidar_receiver.py
+root       24990  0.0  0.1   7864  2056 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.3  1.5 117616 29648 ?        Ssl  19:48   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 33.3  4.5 261012 86056 pts/0    Sl+  19:55   0:11 python3 examples/lidar_receiver.py
+root       24993  0.0  0.1   7864  2024 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.3  1.5 117616 29648 ?        Ssl  19:48   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 33.2  4.5 261012 86056 pts/0    Rl+  19:55   0:11 python3 examples/lidar_receiver.py
+root       24996  0.0  0.1   7864  2028 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.4  1.5 117616 29648 ?        Ssl  19:48   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 33.0  4.5 261012 86056 pts/0    Rl+  19:55   0:11 python3 examples/lidar_receiver.py
+root       24999  0.0  0.1   7864  2028 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.4  1.5 117616 29648 ?        Ssl  19:48   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 32.8  4.5 261012 86056 pts/0    Rl+  19:55   0:11 python3 examples/lidar_receiver.py
+root       25002  0.0  0.1   7864  2092 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.4  1.5 117616 29648 ?        Ssl  19:48   0:05 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 32.6  4.5 261268 86056 pts/0    Sl+  19:55   0:12 python3 examples/lidar_receiver.py
+root       25005  0.0  0.1   7864  1900 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.4  1.5 117616 29648 ?        Ssl  19:48   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 32.3  4.5 261268 86056 pts/0    Sl+  19:55   0:12 python3 examples/lidar_receiver.py
+root       25008  0.0  0.1   7864  2092 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.4  1.5 117616 29648 ?        Ssl  19:48   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 32.3  4.5 261268 86056 pts/0    Rl+  19:55   0:12 python3 examples/lidar_receiver.py
+root       25011  0.0  0.1   7864  1964 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.4  1.5 117616 29648 ?        Ssl  19:48   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 32.1  4.5 261268 86056 pts/0    Sl+  19:55   0:12 python3 examples/lidar_receiver.py
+root       25014  0.0  0.1   7864  2016 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.4  1.5 117616 29648 ?        Ssl  19:48   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 32.0  4.5 261268 86056 pts/0    Sl+  19:55   0:13 python3 examples/lidar_receiver.py
+root       25017  0.0  0.1   7864  1964 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.5  1.5 117616 29648 ?        Ssl  19:48   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 31.8  4.5 261268 86056 pts/0    Rl+  19:55   0:13 python3 examples/lidar_receiver.py
+root       25020  0.0  0.1   7864  2028 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.5  1.5 117616 29648 ?        Ssl  19:48   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 30.9  4.5 261268 86056 pts/0    Sl+  19:55   0:13 python3 examples/lidar_receiver.py
+root       25023  0.0  0.1   7864  1964 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.5  1.5 117616 29648 ?        Ssl  19:48   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 30.8  4.5 261268 86056 pts/0    Rl+  19:55   0:13 python3 examples/lidar_receiver.py
+root       25026  0.0  0.1   7864  2028 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.5  1.5 117616 29648 ?        Ssl  19:48   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 31.0  4.5 261268 86056 pts/0    Sl+  19:55   0:14 python3 examples/lidar_receiver.py
+root       25029  0.0  0.1   7864  1900 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.5  1.5 117616 29648 ?        Ssl  19:48   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 30.8  4.5 261268 86056 pts/0    Sl+  19:55   0:14 python3 examples/lidar_receiver.py
+root       25032  0.0  0.1   7864  2028 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.5  1.5 117616 29648 ?        Ssl  19:48   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 30.7  4.5 261268 86056 pts/0    Rl+  19:55   0:14 python3 examples/lidar_receiver.py
+root       25035  0.0  0.1   7864  1896 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.5  1.5 117616 29648 ?        Ssl  19:48   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 30.6  4.5 261268 86056 pts/0    Sl+  19:55   0:15 python3 examples/lidar_receiver.py
+root       25038  0.0  0.1   7864  1964 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.6  1.5 117616 29648 ?        Ssl  19:48   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 30.5  4.5 261268 86056 pts/0    Sl+  19:55   0:15 python3 examples/lidar_receiver.py
+root       25041  0.0  0.1   7864  2028 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.6  1.5 117616 29648 ?        Ssl  19:48   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 30.5  4.5 261268 86056 pts/0    Rl+  19:55   0:15 python3 examples/lidar_receiver.py
+root       25044  0.0  0.1   7864  2092 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.6  1.5 117616 29648 ?        Ssl  19:48   0:06 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 30.4  4.5 261268 86056 pts/0    Sl+  19:55   0:15 python3 examples/lidar_receiver.py
+root       25047  0.0  0.1   7864  2024 pts/1    S+   19:55   0:00 grep -e examples/ -e nfd
+ndn        24584  1.6  1.5 117616 29648 ?        Ssl  19:48   0:07 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 30.3  4.5 261268 86056 pts/0    Rl+  19:55   0:16 python3 examples/lidar_receiver.py
+root       25050  0.0  0.1   7864  1900 pts/1    S+   19:56   0:00 grep -e examples/ -e nfd
+ndn        24584  1.6  1.5 117616 29648 ?        Ssl  19:48   0:07 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 30.2  4.5 261268 86056 pts/0    Sl+  19:55   0:16 python3 examples/lidar_receiver.py
+root       25053  0.0  0.1   7864  2028 pts/1    S+   19:56   0:00 grep -e examples/ -e nfd
+ndn        24584  1.6  1.5 117616 29648 ?        Ssl  19:48   0:07 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 30.1  4.5 261268 86056 pts/0    Sl+  19:55   0:16 python3 examples/lidar_receiver.py
+root       25056  0.0  0.1   7864  2088 pts/1    S+   19:56   0:00 grep -e examples/ -e nfd
+ndn        24584  1.6  1.5 117616 29648 ?        Ssl  19:48   0:07 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 30.0  4.5 261268 86056 pts/0    Rl+  19:55   0:16 python3 examples/lidar_receiver.py
+root       25059  0.0  0.1   7864  2028 pts/1    S+   19:56   0:00 grep -e examples/ -e nfd
+ndn        24584  1.7  1.5 117616 29648 ?        Ssl  19:48   0:07 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 30.0  4.5 261268 86320 pts/0    Rl+  19:55   0:17 python3 examples/lidar_receiver.py
+root       25062  0.0  0.1   7864  2084 pts/1    S+   19:56   0:00 grep -e examples/ -e nfd
+ndn        24584  1.7  1.5 117616 29648 ?        Ssl  19:48   0:07 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 29.9  4.5 261268 86320 pts/0    Rl+  19:55   0:17 python3 examples/lidar_receiver.py
+root       25065  0.0  0.1   7864  2092 pts/1    S+   19:56   0:00 grep -e examples/ -e nfd
+ndn        24584  1.7  1.5 117616 29648 ?        Ssl  19:48   0:07 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 29.8  4.5 261268 86320 pts/0    Sl+  19:55   0:17 python3 examples/lidar_receiver.py
+root       25068  0.0  0.1   7864  1964 pts/1    S+   19:56   0:00 grep -e examples/ -e nfd
+ndn        24584  1.7  1.5 117616 29648 ?        Rsl  19:48   0:07 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 29.7  4.5 261268 86320 pts/0    Sl+  19:55   0:17 python3 examples/lidar_receiver.py
+root       25071  0.0  0.1   7864  2028 pts/1    S+   19:56   0:00 grep -e examples/ -e nfd
+ndn        24584  1.7  1.5 117616 29648 ?        Ssl  19:48   0:07 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 29.7  4.5 261268 86320 pts/0    Sl+  19:55   0:18 python3 examples/lidar_receiver.py
+root       25074  0.0  0.1   7864  2008 pts/1    S+   19:56   0:00 grep -e examples/ -e nfd
+ndn        24584  1.7  1.5 117616 29648 ?        Rsl  19:48   0:07 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 29.8  4.5 261268 86320 pts/0    Sl+  19:55   0:18 python3 examples/lidar_receiver.py
+root       25077  0.0  0.1   7864  2088 pts/1    S+   19:56   0:00 grep -e examples/ -e nfd
+ndn        24584  1.7  1.5 117616 29648 ?        Ssl  19:48   0:07 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 29.3  4.5 261480 86584 pts/0    Rl+  19:55   0:18 python3 examples/lidar_receiver.py
+root       25080  0.0  0.1   7864  2020 pts/1    S+   19:56   0:00 grep -e examples/ -e nfd
+ndn        24584  1.7  1.5 117616 29648 ?        Ssl  19:48   0:07 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 30.7  5.1 303872 97248 pts/0    Rl+  19:55   0:19 python3 examples/lidar_receiver.py
+root       25083  0.0  0.1   7864  1896 pts/1    S+   19:56   0:00 grep -e examples/ -e nfd
+ndn        24584  1.7  1.5 117616 29648 ?        Ssl  19:48   0:07 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 30.3  5.0 301000 95364 pts/0    Sl+  19:55   0:20 python3 examples/lidar_receiver.py
+root       25086  0.0  0.1   7864  2028 pts/1    S+   19:56   0:00 grep -e examples/ -e nfd
+ndn        24584  1.7  1.5 117616 29648 ?        Ssl  19:48   0:07 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 29.8  5.0 301000 95364 pts/0    Sl+  19:55   0:20 python3 examples/lidar_receiver.py
+root       25089  0.0  0.1   7864  2020 pts/1    S+   19:56   0:00 grep -e examples/ -e nfd
+ndn        24584  1.7  1.5 117616 29648 ?        Ssl  19:48   0:07 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 29.4  5.0 301000 95364 pts/0    Sl+  19:55   0:20 python3 examples/lidar_receiver.py
+root       25092  0.0  0.1   7864  1900 pts/1    S+   19:56   0:00 grep -e examples/ -e nfd
+ndn        24584  1.7  1.5 117616 29648 ?        Ssl  19:48   0:07 /usr/bin/nfd --config /etc/ndn/nfd.conf
+root       24893 29.0  5.0 301000 95364 pts/0    Sl+  19:55   0:20 python3 examples/lidar_receiver.py
+root       25095  0.0  0.1   7864  2092 pts/1    S+   19:56   0:00 grep -e examples/ -e nfd
