@@ -31,22 +31,18 @@ logging.basicConfig(format='[{asctime}]{levelname}:{message}',
 
 app = NDNApp()
 
-population = string.ascii_letters + string.digits
-population *= (8500 // len(population)) + 1
-counter =0
-@app.route('/trailer/cam')
+# population = string.ascii_letters + string.digits
+# population *= (8600 // len(population)) + 1
+
+@app.route('/cam')
 def on_interest(name: FormalName, param: InterestParam, _app_param: Optional[BinaryStr]):
     # print(f'>> I: {Name.to_str(name)}, {param}')
-    # content = os.urandom(8600)
-    # content = ''.join(random.choice(string.ascii_lowercase) for i in range(8600))
-    try:
+    content = os.urandom(4000)
 
-        content = ''.join(random.sample(population, 8500))
+    # content = ''.join(random.sample(population, 4000))
 
-        app.put_data(name, content=content, no_signature=True) #freshness_period=10000)
-        time.sleep(8 / 1000)
-    except KeyboardInterrupt:
-        print("total count sent = ", counter)
+    app.put_data(name, content=content, no_signature=True) #freshness_period=10000)
+    time.sleep(20 / 1000)
 
 
 if __name__ == '__main__':
