@@ -42,9 +42,9 @@ async def main():
     while True:
         try:
             timestamp = ndn.utils.timestamp()
-            name = Name.from_str('/trailer/lidar') #+ [Component.from_timestamp(timestamp)]
+            name = Name.from_str('/lidar') #+ [Component.from_timestamp(timestamp)]
             data_name, meta_info, content = await app.express_interest(
-                name, validator=None, no_signature=True, nonce = None) #, must_be_fresh=False, can_be_prefix=True, lifetime=100)
+                name, validator=None, no_signature=True, nonce = None, can_be_a_prefix=True) #, must_be_fresh=False, can_be_prefix=True, lifetime=100)
 #            print(len(content))
            # print(bytes(content))
             MB += len(content)
@@ -62,7 +62,7 @@ async def main():
         dt_data_received.append((time.time() - start_time_data_received) * 1000)
         start_time_data_received = time.time()
        # time.sleep(1/1000)
-        if (time.time() - start_time) >= (5 * 60):
+        if (time.time() - start_time) >= (1* 60):
             print(dt_data_received)
             logfilename_tcp_rx = "lidar_rx_dt_" + str(time.time_ns()) + ".log"
             with open(logfilename_tcp_rx, "a") as log1:
